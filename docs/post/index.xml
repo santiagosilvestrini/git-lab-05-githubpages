@@ -6,7 +6,18 @@
     <description>Recent content in Posts on My blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 21:47:41 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-githubpages/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://santiagosilvestrini.github.io/git-lab-05-githubpages/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creado Github Pages</title>
+      <link>https://santiagosilvestrini.github.io/git-lab-05-githubpages/post/2023-11-03-creado-github-pages/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://santiagosilvestrini.github.io/git-lab-05-githubpages/post/2023-11-03-creado-github-pages/</guid>
+      
+        <description>Mi Primera Pagina en Github Algún texto&amp;hellip;</description>
+      
+    </item>
+    
     <item>
       <title>The Notice Shortcode</title>
       <link>https://santiagosilvestrini.github.io/git-lab-05-githubpages/post/notice-shortcode/</link>
