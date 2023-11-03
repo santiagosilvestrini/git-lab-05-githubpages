@@ -1,9 +1,9 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "Hola, soy Santi!"
+author = "Santiago Silvestrini"
 #copyright = "2020-2021"
-description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+description = "Bienvenido a mi Github Page"
+profilePicture = "images/santi.jpg"
 keywords = ""
 favicon = "favicons/"
 # example ["css/custom.css"]
@@ -64,7 +64,7 @@ url = "https://de.linkedin.com/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/santiagosilvestrini/"
 
 [[socialIcons]]
 icon = "fab fa-instagram"

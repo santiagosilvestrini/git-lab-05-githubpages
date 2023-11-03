@@ -1,7 +1,8 @@
 baseURL: https://example.com
+publishDir: docs
 languageCode: en
 DefaultContentLanguage: en
-title: Website of Jane Doe
+title: Sitio de Santi
 theme: anatole
 summarylength: 10
 enableEmoji: yes
